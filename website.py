@@ -5,8 +5,6 @@ Created on Tue Sep 21 15:14:18 2021
 @author: Priyank Rao
 """
 import os
-os.chdir(r"C:\Users\pragm\Documents\Projects\Python\ImageRecog")
-
 
 # My two categories
 X = "CAT"
