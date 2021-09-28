@@ -12,9 +12,6 @@ from tensorflow.keras import backend as K
 import gc
 from keras.preprocessing.image import ImageDataGenerator
 
-
-os.chdir(r"C:\Users\pragm\Documents\Projects\Python\ImageRecog")
-
 IMG_WIDTH,IMG_HEIGHT = 150,150
 TRAIN_DATA_DIR = 'train' #where we have our training data
 VALIDATION_DATA_DIR = 'validation'
